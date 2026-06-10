@@ -1,0 +1,32 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+tempCodeRunnerFile.*
+
+# CPH
+.cph/
+
+# Logs
+*.log
+
+# Build directories
+build/
+bin/
+dist/
+
+# Windows
+Thumbs.db
+Desktop.ini
