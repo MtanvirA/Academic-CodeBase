@@ -1,0 +1,12 @@
+========== PSTU FEE PAYMENT RECEIPT ==========
+Transaction ID : TX-20251118091031-16b2083b
+Student ID     : 2302023
+Name           : Md. Tanvir Anjum
+Faculty        : CSE
+Semester       : 2
+Amount Paid    : 2450.0 TK
+Status         : APPROVED
+Approved By    : CASH01
+Date & Time    : 2025-11-18 09:10:31
+==============================================
+Thank you for using the PSTU Enrollment System

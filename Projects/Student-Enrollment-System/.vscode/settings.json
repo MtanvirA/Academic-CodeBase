@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/pdfbox-2.0.35.jar",
+    "lib/fontbox-2.0.1.jar",
+    "lib/commons-logging-1.2.jar"
+  ]
+}
